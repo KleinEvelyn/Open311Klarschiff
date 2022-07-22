@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/sortCategory">
+        <item
+            android:id="@+id/sortCategoryAsc"
+            android:icon="@drawable/sort_up"
+            android:iconTint="@color/black"
+            android:orderInCategory="110"
+            android:title="@string/sort_category_asc"
+            app:showAsAction="never"></item>
+        <item
+            android:id="@+id/sortCategoryDesc"
+            android:icon="@drawable/sort_down"
+            android:iconTint="@color/black"
+            android:orderInCategory="111"
+            android:title="@string/sort_category_desc"
+            app:showAsAction="never"></item>
+    </group>
+
+    <group android:id="@+id/sortStatus">
+        <item
+            android:id="@+id/sortStatusAsc"
+            android:icon="@drawable/sort_up"
+            android:iconTint="@color/black"
+            android:orderInCategory="120"
+            android:title="@string/sort_status_asc"
+            app:showAsAction="never"></item>
+        <item
+            android:id="@+id/sortStatusDesc"
+            android:icon="@drawable/sort_down"
+            android:iconTint="@color/black"
+            android:orderInCategory="121"
+            android:title="@string/sort_status_desc"
+            app:showAsAction="never"></item>
+    </group>
+</menu>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/add.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/barrierefreiheit.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/camera_fill.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/fahrradverkehr.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/ffentlichernahverkehr.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/ffentlichesgrnspielplatz.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/filter.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/fugnger.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/gehwegradwegstrae.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/gewerberecht.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/ic_menu_house_fill.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/ic_menu_search.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/ic_menu_ui_checks.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/info_square_fill.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/karte.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/mllschmutz.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/parken.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/sort_down.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/sort_up.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/stadtmbel.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/stadtmbelbeleuchtung.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/straenverkehr.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/vandalismusschmiererei.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/verkehrseinrichtungbeleuchtung.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/wald.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/wasser.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/drawable/winterdienst.xml" value="0.134" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/activity_new_issue.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/app_bar_main.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/content_main.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/content_new_issue.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/content_recycler_list.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_detail.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_issues.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_new_issue_1.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_new_issue_2.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_new_issue_3.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_new_issue_4.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_new_issue_5.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_new_issue_6.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_new_issue_7.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/fragment_search.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/nav_header_main.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/service_category_list_item.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/service_group_list_item.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/service_request_list_item.xml" value="0.3625" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/layout/settings_activity.xml" value="0.18" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/menu/main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/menu/search_filter.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/klein/AndroidStudioProjects/Open311Klarschiff/app/src/main/res/xml/root_preferences.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#006cb7</color>
+    <color name="primary_variant">#1a7bbe</color>
+    <color name="secondary">#b3d3e9</color>
+    <color name="secondary_variant">#66a7d4</color>
+    <color name="secondary_variant_dark">#00416e</color>
+    <color name="accent">#ffd01e</color>
+    <color name="accent_variant">#ffe582</color>
+    <color name="logo_yellow">#ffcb05</color>
+    <color name="black">#0a2434</color>
+    <color name="white">#ffffff</color>
+</resources>
